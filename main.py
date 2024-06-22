@@ -3,11 +3,11 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 #Load the edge data
-edges_data = pd.read_csv('data/edges_test.csv')
+edges_data = pd.read_csv('data/test/edges_test.csv')
 print(edges_data.head())
 
 #Load the feature data
-features_data = pd.read_csv('data/nodes_test.csv')
+features_data = pd.read_csv('data/test/nodes_test.csv')
 print(features_data.head())
 
 G = nx.DiGraph()

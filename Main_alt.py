@@ -6,11 +6,11 @@ import random
 import json
 
 # Load the edge data
-edges_data = pd.read_csv('data/edges_test.csv')  # Replace with your actual path large_twitch_edges7.csv
+edges_data = pd.read_csv('data/test/edges_test.csv')  # Replace with your actual path large_twitch_edges7.csv
 print("Edges Data:\n", edges_data.head())
 
 # Load the revised feature data
-features_data = pd.read_csv('data/nodes_test.csv')  # Replace with your actual path large_twitch_features
+features_data = pd.read_csv('data/test/nodes_test.csv')  # Replace with your actual path large_twitch_features
 print("Features Data:\n", features_data.head())
 
 
