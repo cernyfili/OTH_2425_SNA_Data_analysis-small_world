@@ -5,4 +5,5 @@ Analysis of data from social network Twitch as graph and analyzing the small-wor
 3. Cantrality mesures
 4. Comunity analysis
 
-Whole text about this project in 
+Whole text as reasearch paper about this project in [Small-world_analysis_twitch - research paper.pdf
+](https://github.com/cernyfili/OTH_2425_SNA_Data_analysis-small_world/blob/main/Small-world_analysis_twitch%20-%20research%20paper.pdf)
